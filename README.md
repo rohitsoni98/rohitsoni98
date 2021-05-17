@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me 📨</h3>
 <p>
 <a href="https://twitter.com/rsoni5467" target="blank"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href=" href="https://www.linkedin.com/in/rohit-soni-006868196/" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohitsoni"/></a>
 <a href="https://instagram.com/rsoni98" target="blank"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rohitsoni"/></a>
 <a href="https://api.whatsapp.com/send?phone=9896788176" target="blank"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rohitsoni"/></a>
 
