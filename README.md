@@ -1,6 +1,5 @@
 <h1 align="center">Hello ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Rohit Kumar Soni</h1>
-<h3 align="center">Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-rohitsoni98&color=blue&style=plastic" alt="rohitsoni" /> </p>
+<<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-rohitsoni98&color=blue&style=plastic" alt="rohitsoni" /> </p>
 <h3 align="left">Something about me 👨‍💻</h3>
 <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coder GIF" width="300" align="right"> 
 
