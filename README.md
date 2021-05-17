@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Backend and Frontend Web Development.**
 - 👨‍💻 All of my projects are available **<a id="raw-url" href="https://github.com/rohitsoni98">Here</a>**
 - 💬 Ask me anything about **my domain, Happy to help.**
-- 📫 How to reach me:  **<a id="raw-url"href="https://www.linkedin.com/in/rohit-soni">LinkedIn</a>**
+- 📫 How to reach me:  **<a id="raw-url" href="https://linkedin.com/in/rohit-soni">LinkedIn</a>**
 - ⚡ Fun fact **I love playing Badminton, Dance and love doing Workout to keep myself fit**
 
 
