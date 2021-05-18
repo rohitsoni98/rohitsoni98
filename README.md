@@ -23,9 +23,11 @@
 <a href="https://html.com/" target="_blank"> <img src="https://lorvencomputers.com/assets/img/course/2.png" width="42" alt="c"/> </a> 
 <a href="https://www.javascript.com/learn" target="_blank"> <img src="https://4.bp.blogspot.com/-s2EhTt57oeU/XHtQtO1QNLI/AAAAAAAANW8/KYkPQEZUyocSpA2RzqCcVt31imXPi63RACLcBGAs/s1600/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg" width="50" alt="cplusplus" /> </a> 
 <a href="https://www.w3.org/Style/CSS/learning" target="_blank"> <img src="https://www.tutorialrepublic.com/lib/images/css-illustration.png" width="77" alt="java"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
   
-
+  
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png" width="65" alt="django"/> </a> 
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://user-images.githubusercontent.com/567298/52816968-216f6480-30ab-11e9-9d19-6418ba51563b.png" width="80" alt="flask"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="VS Code"/> </a> 
 <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="git"/> </a> 
 
